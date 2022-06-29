@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
-//Paola Poffo 29/06/2022 Comentário dois
+//Paola Poffo 29/06/2022 Comentário dois "Finalizado"
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
